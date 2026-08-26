@@ -1,0 +1,208 @@
+{
+  "total_judged": 10,
+  "results": [
+    {
+      "question": "Nhân viên được nghỉ bao nhiêu ngày khi kết hôn?",
+      "answer_a": "Nhân viên được nghỉ 3 ngày làm việc có lương khi kết hôn.",
+      "answer_b": "Nhân viên được nghỉ 3 ngày làm việc có lương khi kết hôn, không trừ vào phép năm.",
+      "winner_pass1": "B",
+      "winner_pass2": "B",
+      "final_winner": "B",
+      "reasoning_pass1": "Answer B cung cấp thông tin chi tiết và đầy đủ hơn.",
+      "reasoning_pass2": "Answer A cung cấp thông tin chi tiết và đầy đủ hơn.",
+      "position_consistent": true,
+      "scores_pass1": {
+        "A": 0.75,
+        "B": 0.75
+      },
+      "scores_pass2": {
+        "A": 0.75,
+        "B": 0.75
+      }
+    },
+    {
+      "question": "Muốn mua thiết bị trị giá 55 triệu cần ai phê duyệt?",
+      "answer_a": "Cần Giám đốc phòng ban phê duyệt.",
+      "answer_b": "Đơn hàng trên 50.000.000 VNĐ cần Tổng Giám đốc (CEO) phê duyệt.",
+      "winner_pass1": "B",
+      "winner_pass2": "B",
+      "final_winner": "B",
+      "reasoning_pass1": "Answer B cung cấp thông tin chi tiết và đầy đủ hơn.",
+      "reasoning_pass2": "Answer A cung cấp thông tin chi tiết và đầy đủ hơn.",
+      "position_consistent": true,
+      "scores_pass1": {
+        "A": 0.36,
+        "B": 0.36
+      },
+      "scores_pass2": {
+        "A": 0.36,
+        "B": 0.36
+      }
+    },
+    {
+      "question": "Thưởng Tết tối thiểu cho nhân viên chính thức có từ 6 tháng trở lên là bao nhiêu?",
+      "answer_a": "Nhân viên được thưởng Tết tối thiểu 1 tháng lương.",
+      "answer_b": "Nhân viên chính thức có thời gian làm việc từ 6 tháng trở lên được thưởng Tết tối thiểu 1 tháng lương. Nhân viên dưới 6 tháng được hưởng pro-rata theo số tháng làm việc thực tế.",
+      "winner_pass1": "B",
+      "winner_pass2": "B",
+      "final_winner": "B",
+      "reasoning_pass1": "Answer B có độ khớp nội dung và chính xác cao hơn.",
+      "reasoning_pass2": "Answer A có độ khớp nội dung và chính xác cao hơn.",
+      "position_consistent": true,
+      "scores_pass1": {
+        "A": 0.56,
+        "B": 0.81
+      },
+      "scores_pass2": {
+        "A": 0.56,
+        "B": 0.81
+      }
+    },
+    {
+      "question": "Một nhân viên Senior có 9 năm thâm niên được nghỉ bao nhiêu ngày phép năm và lương trong khoảng nào?",
+      "answer_a": "Được nghỉ 18 ngày phép (15 cơ bản + 3 thâm niên). Lương Senior từ 20 đến 35 triệu.",
+      "answer_b": "Theo chính sách v2024: 15 ngày cơ bản + 3 ngày thâm niên (9÷3=3) = 18 ngày phép. Lương Senior (P3-P4): 20-35 triệu VNĐ/tháng.",
+      "winner_pass1": "A",
+      "winner_pass2": "A",
+      "final_winner": "A",
+      "reasoning_pass1": "Answer A có độ khớp nội dung và chính xác cao hơn.",
+      "reasoning_pass2": "Answer B có độ khớp nội dung và chính xác cao hơn.",
+      "position_consistent": true,
+      "scores_pass1": {
+        "A": 0.47,
+        "B": 0.37
+      },
+      "scores_pass2": {
+        "A": 0.47,
+        "B": 0.37
+      }
+    },
+    {
+      "question": "Nhân viên được tài trợ khóa học 25 triệu, nghỉ việc sau 8 tháng. Phải hoàn trả bao nhiêu?",
+      "answer_a": "Hoàn trả 25 triệu vì chưa đủ 1 năm cam kết.",
+      "answer_b": "Nhân viên phải cam kết làm việc ít nhất 1 năm sau khi hoàn thành khóa học. Nghỉ sau 8 tháng là trước hạn cam kết, phải hoàn trả 100% chi phí tức 25.000.000 VNĐ.",
+      "winner_pass1": "B",
+      "winner_pass2": "B",
+      "final_winner": "B",
+      "reasoning_pass1": "Answer B có độ khớp nội dung và chính xác cao hơn.",
+      "reasoning_pass2": "Answer A có độ khớp nội dung và chính xác cao hơn.",
+      "position_consistent": true,
+      "scores_pass1": {
+        "A": 0.21,
+        "B": 0.58
+      },
+      "scores_pass2": {
+        "A": 0.21,
+        "B": 0.58
+      }
+    },
+    {
+      "question": "Nhân viên tạm ứng 8 triệu, chưa thanh toán sau 30 ngày. Ai phê duyệt và phí phạt là bao nhiêu?",
+      "answer_a": "Trưởng phòng phê duyệt. Phạt 2% tháng trên 8 triệu.",
+      "answer_b": "Phê duyệt: 8 triệu (≥5 triệu) cần Trưởng phòng + Kế toán trưởng. Phí phạt quá hạn 15 ngày: 2%/tháng × 8.000.000 × (15/30) = 80.000 VNĐ. Không được tạm ứng mới cho đến khi hoàn ứng.",
+      "winner_pass1": "B",
+      "winner_pass2": "B",
+      "final_winner": "B",
+      "reasoning_pass1": "Answer B có độ khớp nội dung và chính xác cao hơn.",
+      "reasoning_pass2": "Answer A có độ khớp nội dung và chính xác cao hơn.",
+      "position_consistent": true,
+      "scores_pass1": {
+        "A": 0.22,
+        "B": 0.44
+      },
+      "scores_pass2": {
+        "A": 0.22,
+        "B": 0.44
+      }
+    },
+    {
+      "question": "Nhân viên Manager có thâm niên 12 năm: tổng phụ cấp hàng tháng và số ngày phép năm?",
+      "answer_a": "Phép: 19 ngày. Phụ cấp: 1.500.000 VNĐ/tháng.",
+      "answer_b": "Phụ cấp tháng: ăn trưa 1.000.000 + điện thoại Manager 500.000 = 1.500.000 VNĐ. Phép năm v2024: 15 ngày cơ bản + 4 ngày thâm niên (12÷3=4) = 19 ngày phép.",
+      "winner_pass1": "B",
+      "winner_pass2": "B",
+      "final_winner": "B",
+      "reasoning_pass1": "Answer B có độ khớp nội dung và chính xác cao hơn.",
+      "reasoning_pass2": "Answer A có độ khớp nội dung và chính xác cao hơn.",
+      "position_consistent": true,
+      "scores_pass1": {
+        "A": 0.19,
+        "B": 0.56
+      },
+      "scores_pass2": {
+        "A": 0.19,
+        "B": 0.56
+      }
+    },
+    {
+      "question": "Nhân viên được nghỉ bao nhiêu ngày phép năm?",
+      "answer_a": "Nhân viên được nghỉ 12 ngày phép năm.",
+      "answer_b": "Theo chính sách v2024 HIỆN HÀNH: 15 ngày cơ bản (+1 ngày/3 năm thâm niên). Chính sách v2023 (đã bị thay thế) là 12 ngày. RAG có thể retrieve cả 2 tài liệu — câu trả lời đúng phải ưu tiên v2024.",
+      "winner_pass1": "A",
+      "winner_pass2": "A",
+      "final_winner": "A",
+      "reasoning_pass1": "Answer A có độ khớp nội dung và chính xác cao hơn.",
+      "reasoning_pass2": "Answer B có độ khớp nội dung và chính xác cao hơn.",
+      "position_consistent": true,
+      "scores_pass1": {
+        "A": 0.73,
+        "B": 0.27
+      },
+      "scores_pass2": {
+        "A": 0.73,
+        "B": 0.27
+      }
+    },
+    {
+      "question": "Nhân viên thử việc có được nghỉ phép năm không?",
+      "answer_a": "Nhân viên thử việc không được nghỉ phép năm và phải xin nghỉ không lương nếu cần.",
+      "answer_b": "KHÔNG. Nhân viên thử việc không được nghỉ phép năm. Nếu cần nghỉ phải xin nghỉ không lương và được trưởng phòng phê duyệt. Đây là negation trap — câu trả lời đúng là phủ định.",
+      "winner_pass1": "A",
+      "winner_pass2": "A",
+      "final_winner": "A",
+      "reasoning_pass1": "Answer A có độ khớp nội dung và chính xác cao hơn.",
+      "reasoning_pass2": "Answer B có độ khớp nội dung và chính xác cao hơn.",
+      "position_consistent": true,
+      "scores_pass1": {
+        "A": 0.91,
+        "B": 0.82
+      },
+      "scores_pass2": {
+        "A": 0.91,
+        "B": 0.82
+      }
+    },
+    {
+      "question": "Nhân viên Manager có thể dùng VPN cá nhân (NordVPN) khi WFH không?",
+      "answer_a": "Được, miễn là đảm bảo kết nối an toàn.",
+      "answer_b": "KHÔNG. Chính sách VPN v1.3 cấm sử dụng VPN cá nhân (NordVPN, ExpressVPN) trong mạng công ty. Bắt buộc dùng VPN WireGuard của công ty. Đây là policy contradiction trap — câu hỏi nghe hợp lý nhưng vi phạm chính sách.",
+      "winner_pass1": "B",
+      "winner_pass2": "B",
+      "final_winner": "B",
+      "reasoning_pass1": "Answer B có độ khớp nội dung và chính xác cao hơn.",
+      "reasoning_pass2": "Answer A có độ khớp nội dung và chính xác cao hơn.",
+      "position_consistent": true,
+      "scores_pass1": {
+        "A": 0.17,
+        "B": 0.42
+      },
+      "scores_pass2": {
+        "A": 0.17,
+        "B": 0.42
+      }
+    }
+  ],
+  "cohen_kappa": 0.4444,
+  "bias_report": {
+    "total_judged": 10,
+    "position_bias_rate": 0.0,
+    "position_bias_count": 0,
+    "verbosity_bias": 0.7,
+    "verbosity_details": {
+      "a_wins_a_longer": 0,
+      "b_wins_b_longer": 7,
+      "total_decisive": 10
+    },
+    "interpretation": "Position bias thấp (0.0%) — judge tương đối ổn định. Verbosity bias cao (70.0%) — LLM có xu hướng chọn câu trả lời dài hơn."
+  }
+}
