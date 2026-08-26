@@ -8,3 +8,4 @@ venv/
 answers_50q.json
 reports/*.json
 !reports/.gitkeep
+.env
